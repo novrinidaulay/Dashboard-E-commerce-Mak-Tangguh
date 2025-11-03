@@ -1,1 +1,1 @@
-Url dashboard : dashboard-e-commerce-mak-tangguh.streamlit.app
+Url dashboard : https://dashboard-e-commerce-mak-tangguh.streamlit.app/
