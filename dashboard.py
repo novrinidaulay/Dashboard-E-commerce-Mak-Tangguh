@@ -98,7 +98,7 @@ except FileNotFoundError:
 # --- Komponen Filter di Sidebar ---
 with st.sidebar: # Tambahkan logo di dalam blok sidebar
     # Menambahkan logo perusahaan menggunakan path local
-    st.image('/Users/novrinidaulay/Dashboard/emak tangguh.png')
+    st.image("https://github.com/novrinidaulay/Dashboard-E-commerce-Mak-Tangguh/blob/15202477e9b526d4a05e495626210bbe75436e0c/emak%20tangguh.png?raw=true")
 
     st.header('Filter Data')
 
