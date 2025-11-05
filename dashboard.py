@@ -45,7 +45,7 @@ IMAGE_URL = "https://github.com/novrinidaulay/Dashboard-E-commerce-Mak-Tangguh/b
 GITHUB_LINK = "https://github.com/novrinidaulay/Dashboard-E-commerce-Mak-Tangguh"
 
 # Tampilkan gambar di sidebar
-st.sidebar.image(IMAGE_URL, use_column_width=True)
+st.sidebar.image(IMAGE_URL, use_container_width=True)
 
 # Tambahkan tautan GitHub di bawah gambar menggunakan Markdown
 st.sidebar.markdown(f"**[Lihat di GitHub](<{GITHUB_LINK}>)**", unsafe_allow_html=True)
